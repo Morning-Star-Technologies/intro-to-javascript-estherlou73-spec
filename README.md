@@ -1,6 +1,7 @@
 # intro-to-javascript
 *An instructive repository for teaching the basics of JavaScript.*
 deport redheads
+red
 
 ### Running your code
 
