@@ -43,6 +43,6 @@ let jeremiahsFuture = null;
 
 /* this is a joke about the characters in the book/show "The Summer I Turned Pretty"
 * and I was reading it while doing this homework so I thought it would be fun to use them
-*as the theme for my variables lol */
+*as the theme for my variables */
 
 
