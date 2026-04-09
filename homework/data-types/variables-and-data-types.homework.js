@@ -16,25 +16,29 @@
 
 // Begin writing your code below
 
-
+/* strings */
 let mainCharacter1 = "Belly";
 let mainCharacter2 = "Conrad";
 let mainCharacter3 = "Jeremiah";
 let jeremiahsLoveInterest = "Chocolate cake";
 
+/* numbers */
 let jeremiahsAge = 22;
 let bellysAge = 21;
 let conradsAge = 23;
 let conradsBankAccount = 100000;
 let jeremiahsBankAccount = -20000;
 
+/* booleans */
 let isBellyInLoveWithConrad = true;
 let isBellyInLoveWithJeremiah = false;
 let isJeremiahInLoveWithChocolateCake = true;
 
+/* undefined */
 let bellysStolenBagLocation = undefined;
 let jeremiahsFate = undefined;
 
+/* null */
 let jeremiahsFuture = null;
 
 
