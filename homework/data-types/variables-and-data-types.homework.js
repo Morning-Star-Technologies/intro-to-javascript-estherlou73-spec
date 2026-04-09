@@ -16,6 +16,7 @@
 
 // Begin writing your code below
 
+
 /* strings */
 let mainCharacter1 = "Belly";
 let mainCharacter2 = "Conrad";
@@ -40,6 +41,26 @@ let jeremiahsFate = undefined;
 
 /* null */
 let jeremiahsFuture = null;
+
+console.log("mainCharacter1:", mainCharacter1);
+console.log("mainCharacter2:", mainCharacter2);
+console.log("mainCharacter3:", mainCharacter3);
+console.log("jeremiahsLoveInterest:", jeremiahsLoveInterest);
+
+console.log("jeremiahsAge:", jeremiahsAge);
+console.log("bellysAge:", bellysAge);
+console.log("conradsAge:", conradsAge);
+console.log("conradsBankAccount:", conradsBankAccount);
+console.log("jeremiahsBankAccount:", jeremiahsBankAccount);
+
+console.log("isBellyInLoveWithConrad:", isBellyInLoveWithConrad);
+console.log("isBellyInLoveWithJeremiah:", isBellyInLoveWithJeremiah);
+console.log("isJeremiahInLoveWithChocolateCake:", isJeremiahInLoveWithChocolateCake);
+
+console.log("bellysStolenBagLocation:", bellysStolenBagLocation);
+console.log("jeremiahsFate:", jeremiahsFate);
+
+console.log("jeremiahsFuture:", jeremiahsFuture);
 
 /* this is a joke about the characters in the book/show "The Summer I Turned Pretty"
 * and I was reading it while doing this homework so I thought it would be fun to use them
