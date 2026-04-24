@@ -53,7 +53,7 @@ console.log("conradsAge", conradsAge);
 console.log("conradsBankAccount", conradsBankAccount);
 console.log("jeremiahsBankAccount", jeremiahsBankAccount);
 
-console.log("isBellyInLoveWithConrad", isBellyInLoveWithConrad);
+console.log('isBellyInLoveWithConrad', isBellyInLoveWithConrad);
 console.log("isBellyInLoveWithJeremiah", isBellyInLoveWithJeremiah);
 console.log("isJeremiahInLoveWithChocolateCake", isJeremiahInLoveWithChocolateCake);
 
