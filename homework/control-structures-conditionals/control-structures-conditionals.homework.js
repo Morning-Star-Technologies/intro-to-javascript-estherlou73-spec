@@ -6,3 +6,23 @@
 */
 
 // Begin writing your code below
+
+/* If Statement */
+
+let websRunOut = true;
+
+if (websRunOut === true) {
+    console.log('Spider-man cannot swing or shoot webs!');
+}
+
+/* Else Statement */
+
+if (websRunOut === false) {
+    console.log('Spider-man can swing or shoot webs!');
+} else {
+    console.log('Spider-man cannot swing or shoot webs!');
+}
+
+
+
+
