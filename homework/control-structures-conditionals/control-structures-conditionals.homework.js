@@ -15,7 +15,7 @@ if (websRunOut === true) {
     console.log('Spider-man cannot swing or shoot webs!');
 }
 
-/* Else Statement */
+/* If/Else Statement */
 
 if (websRunOut === false) {
     console.log('Spider-man can swing or shoot webs!');
