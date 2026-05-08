@@ -20,7 +20,7 @@ while (i < teenTitans.length) {
 
 let dcHeroes = ['Superman', 'Batman', 'Wonder Woman'];
 
-let i = 0
+i = 0
 while (i < dcHeroes.length) {
   if (dcHeroes[i].length > 6) {
     console.log(dcHeroes[i]);
