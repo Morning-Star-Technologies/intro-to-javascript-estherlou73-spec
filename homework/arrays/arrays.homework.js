@@ -9,3 +9,23 @@
 */
 
 // Begin writing your code below
+
+/* Arrays */
+
+let teenTitans = ['Robin', 'Starfire', 'Cyborg', 'Raven'];
+
+console.log(teenTitans[0]);
+console.log(teenTitans[2]);
+
+console.log('There are ' + teenTitans.length + ' members of the Teen Titans.');
+
+teenTitans[3] = 5;
+console.log(teenTitans);
+
+teenTitans[5] = 'Raven';
+teenTitans[6] = 'Beast Boy';
+
+teenTitans[7] = true;
+teenTitans[8] = false;
+
+console.log(teenTitans);
