@@ -8,3 +8,17 @@
 */
 
 // Begin writing your code below
+
+function ironManSpeaks(firstName, lastName) {
+    console.log('Hello, my name is ' + firstName + ' ' + lastName);
+}
+
+ironManSpeaks('Tony', 'Stark');
+
+function doubleNumber(num) {
+    return num * 2;
+}
+console.log(doubleNumber(7));
+
+
+
