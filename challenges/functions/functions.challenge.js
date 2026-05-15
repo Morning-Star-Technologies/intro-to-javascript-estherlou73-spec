@@ -11,3 +11,32 @@
 */
 
 // Begin writing your code below
+
+function square(num) {
+    return num * num;
+}
+
+console.log(square(7));
+console.log(square(3));
+console.log(square(64));
+
+function countBooleans(booleanArray) {
+  let trueNumCount = 0;
+  let falseNumCount = 0;
+
+  for (const value of booleanArray) {
+    if (value === true) {
+      trueNumCount++;
+    } else {
+      falseNumCount++;
+    }
+  }
+
+  console.log('true count:', trueNumCount);
+  console.log('false count:', falseNumCount);
+
+  return booleanArray.length;
+}
+
+const result = countBooleans([true, false, true, false, true]);
+console.log('array length:', result);
