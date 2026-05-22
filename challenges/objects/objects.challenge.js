@@ -8,3 +8,18 @@
  */
 
 // Begin writing your code below
+
+class PeterBParker {
+    constructor(name, age, weight, isSpiderman) {
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
+        this.isSpiderman = isSpiderman;
+    }
+}        
+
+const peter = new PeterBParker("Peter B. Parker", 38, "A little pudgy", true);
+console.log(peter.name);
+console.log(peter.age);
+console.log(peter.weight);
+console.log(peter.isSpiderman);
